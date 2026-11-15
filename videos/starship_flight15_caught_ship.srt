@@ -1,0 +1,206 @@
+1
+00:00:01,000 --> 00:00:02,872
+SpaceX caught a spaceship.
+
+2
+00:00:03,322 --> 00:00:05,600
+From orbit, with giant steel arms.
+
+3
+00:00:07,300 --> 00:00:09,000
+On Friday, November thirteenth,
+
+4
+00:00:09,000 --> 00:00:12,346
+SpaceX launched Starship Flight
+Fifteen from Starbase, Texas.
+
+5
+00:00:12,566 --> 00:00:16,195
+It was the first flight with a new Block
+Three booster and ship flown together.
+
+6
+00:00:16,415 --> 00:00:18,841
+The ship carried twenty-six
+Starlink satellites,
+
+7
+00:00:18,841 --> 00:00:20,682
+and the rocket was loaded with about
+
+8
+00:00:20,682 --> 00:00:23,290
+twelve million pounds of
+liquid oxygen and methane.
+
+9
+00:00:23,540 --> 00:00:26,254
+The Federal Aviation
+Administration approved the launch
+
+10
+00:00:26,254 --> 00:00:28,425
+about three and a half
+hours before liftoff.
+
+11
+00:00:28,645 --> 00:00:30,384
+About an hour before the launch,
+
+12
+00:00:30,384 --> 00:00:33,970
+a nationwide ground stop over a
+communication issue was announced.
+
+13
+00:00:34,190 --> 00:00:36,145
+Nothing we found says the two are linked.
+
+14
+00:00:37,233 --> 00:00:41,704
+The plan was to catch the Super Heavy booster
+with the tower's giant chopstick arms,
+
+15
+00:00:41,704 --> 00:00:43,939
+about six and a half minutes after launch.
+
+16
+00:00:44,159 --> 00:00:47,904
+Instead, the booster aborted the catch
+and splashed down in the Gulf of Mexico.
+
+17
+00:00:48,155 --> 00:00:51,025
+First, SpaceX said the system
+did an automated abort.
+
+18
+00:00:51,245 --> 00:00:55,864
+Later, a SpaceX engineer said early signs
+point to the boostback burn ending early,
+
+19
+00:00:55,864 --> 00:00:57,700
+because of a low fuel mass alarm.
+
+20
+00:00:57,920 --> 00:01:00,290
+The root cause is still
+under investigation.
+
+21
+00:01:01,400 --> 00:01:02,675
+The ship kept going.
+
+22
+00:01:02,895 --> 00:01:06,386
+About twenty-six minutes after
+liftoff, its burn put it in orbit,
+
+23
+00:01:06,386 --> 00:01:08,964
+only the second time
+Starship has reached orbit.
+
+24
+00:01:09,185 --> 00:01:11,629
+It released all twenty-six
+Starlink satellites,
+
+25
+00:01:11,629 --> 00:01:14,386
+the last one at about one
+hour and seventeen minutes.
+
+26
+00:01:14,635 --> 00:01:18,581
+Flight controllers skipped every early
+return option, including Hawaii and Chile.
+
+27
+00:01:18,801 --> 00:01:22,755
+That made this the longest Starship mission
+yet, about twenty-two and a half hours.
+
+28
+00:01:23,867 --> 00:01:25,034
+On Saturday afternoon,
+
+29
+00:01:25,034 --> 00:01:28,376
+the ship fired one engine for
+about ten seconds to leave orbit,
+
+30
+00:01:28,376 --> 00:01:30,369
+then came back through the atmosphere.
+
+31
+00:01:30,589 --> 00:01:33,206
+At about four twenty in the
+afternoon, Eastern time,
+
+32
+00:01:33,206 --> 00:01:36,025
+the tower's arms caught Ship
+Forty-Two on the first try.
+
+33
+00:01:36,275 --> 00:01:40,234
+It is the first time an orbital Starship
+upper stage has ever been recovered.
+
+34
+00:01:40,454 --> 00:01:44,223
+SpaceX spokesperson Dan Huot put
+it this way: we caught a Starship,
+
+35
+00:01:44,223 --> 00:01:45,742
+and now everything changes.
+
+36
+00:01:46,833 --> 00:01:47,975
+What comes next?
+
+37
+00:01:48,195 --> 00:01:50,681
+The cause of the booster
+abort is still to come,
+
+38
+00:01:50,681 --> 00:01:53,062
+and no date has been
+given for Flight Sixteen.
+
+39
+00:01:53,282 --> 00:01:57,084
+SpaceX called the result a step toward
+an eventual return to launch site.
+
+40
+00:01:57,333 --> 00:01:58,273
+Before the flight,
+
+41
+00:01:58,273 --> 00:02:00,701
+one second-hand estimate
+gave a first-try ship
+
+42
+00:02:00,701 --> 00:02:02,970
+catch at least fifty
+or sixty percent odds.
+
+43
+00:02:03,190 --> 00:02:06,200
+We found no reaction yet
+from critics or regulators.
+
+44
+00:02:07,600 --> 00:02:11,246
+Would YOU watch a spaceship get
+caught live? Tell me in the comments.
+
