@@ -1,280 +1,276 @@
 1
-00:00:00,200 --> 00:00:03,325
+00:00:00,000 --> 00:00:03,458
 For two hundred twenty years, Japan locked
 its doors.
 
 2
-00:00:03,745 --> 00:00:06,977
+00:00:03,820 --> 00:00:06,370
 Sneak out, and the punishment was death.
 
 3
-00:00:06,997 --> 00:00:09,761
+00:00:06,390 --> 00:00:08,574
 Come back, and it was death again.
 
 4
-00:00:10,579 --> 00:00:12,709
+00:00:09,342 --> 00:00:12,098
 Then four black ships arrived, and within
 
 5
-00:00:12,729 --> 00:00:15,351
+00:00:12,118 --> 00:00:15,503
 twenty-three years, the samurai lost their
 swords.
 
 6
-00:00:16,135 --> 00:00:19,610
+00:00:16,368 --> 00:00:19,459
 This is Japan, the Land of the Rising Sun.
 
 7
-00:00:20,059 --> 00:00:22,477
+00:00:19,886 --> 00:00:22,234
 It has fourteen thousand one hundred
 twenty-five
 
 8
-00:00:22,497 --> 00:00:25,444
+00:00:22,254 --> 00:00:25,116
 islands, double what it counted until
 twenty twenty-three.
 
 9
-00:00:26,316 --> 00:00:28,959
+00:00:25,674 --> 00:00:28,295
 Here is how the doors closed, how they
 burst
 
 10
-00:00:28,979 --> 00:00:31,703
+00:00:28,315 --> 00:00:31,016
 open, and which one is still waiting for
 you.
 
 11
-00:00:32,560 --> 00:00:33,576
+00:00:31,886 --> 00:00:32,948
 So why lock them?
 
 12
-00:00:33,596 --> 00:00:38,290
+00:00:32,968 --> 00:00:37,868
 Historians say the shogun wanted to cut
 off Spanish and Portuguese influence.
 
 13
-00:00:39,259 --> 00:00:42,130
+00:00:38,406 --> 00:00:41,271
 From sixteen thirty-three to sixteen
 thirty-nine,
 
 14
-00:00:42,150 --> 00:00:45,040
+00:00:41,291 --> 00:00:44,177
 edicts banned Japanese ships from sailing
 abroad.
 
 15
-00:00:45,757 --> 00:00:48,107
+00:00:44,635 --> 00:00:46,695
 But Japan was never fully sealed.
 
 16
-00:00:48,127 --> 00:00:51,482
+00:00:46,715 --> 00:00:49,657
 On Dejima, a fan-shaped island just one
 hundred
 
 17
-00:00:51,502 --> 00:00:55,236
+00:00:49,677 --> 00:00:52,954
 twenty meters long, the Dutch were allowed
 to trade.
 
 18
-00:00:55,662 --> 00:00:57,939
+00:00:53,448 --> 00:00:55,957
 Through it flowed Dutch books and
 medicine.
 
 19
-00:00:57,959 --> 00:01:00,256
+00:00:55,977 --> 00:00:58,506
 Japanese scholars called it Dutch
 learning.
 
 20
-00:01:01,087 --> 00:01:06,322
+00:00:59,008 --> 00:01:03,004
 Two doctors spent three years translating
 a single Dutch anatomy book.
 
 21
-00:01:07,303 --> 00:01:10,946
+00:01:03,716 --> 00:01:06,985
 Then, on July eighth, eighteen
 fifty-three, four
 
 22
-00:01:10,966 --> 00:01:14,552
+00:01:07,005 --> 00:01:10,226
 warships entered the bay at Edo, today's
 Tokyo.
 
 23
-00:01:15,200 --> 00:01:16,382
+00:01:10,704 --> 00:01:12,391
 No sails. Only black smoke.
 
 24
-00:01:16,402 --> 00:01:18,852
+00:01:12,411 --> 00:01:15,892
 People thought they were giant dragons
 puffing smoke.
 
 25
-00:01:19,751 --> 00:01:22,786
+00:01:16,439 --> 00:01:19,141
 Commodore Perry handed over a letter,
 promised to
 
 26
-00:01:22,806 --> 00:01:25,425
+00:01:19,161 --> 00:01:21,494
 return, and came back with a bigger fleet.
 
 27
-00:01:26,310 --> 00:01:30,518
+00:01:22,274 --> 00:01:25,497
 In March eighteen fifty-four, Japan signed
 the Treaty
 
 28
-00:01:30,538 --> 00:01:34,447
+00:01:25,517 --> 00:01:28,516
 of Kanagawa, opening two ports to American
 ships.
 
 29
-00:01:35,039 --> 00:01:37,400
-Signed under threat of force,
+00:01:28,991 --> 00:01:33,365
+Signed under threat of force, it ended
+about two hundred twenty years of seclusion.
 
 30
-00:01:37,420 --> 00:01:40,025
-it ended about two hundred twenty
-years of seclusion.
-
-31
-00:01:40,893 --> 00:01:44,973
+00:01:34,044 --> 00:01:37,848
 What followed was one of the fastest
 national makeovers in modern history.
 
-32
-00:01:45,902 --> 00:01:48,851
+31
+00:01:38,365 --> 00:01:41,707
 In eighteen sixty-eight, samurai loyalists
 seized the palace
 
-33
-00:01:48,871 --> 00:01:51,643
+32
+00:01:41,727 --> 00:01:44,865
 in Kyoto and restored a fifteen-year-old
 emperor, Meiji.
 
-34
-00:01:52,063 --> 00:01:57,448
+33
+00:01:45,445 --> 00:01:50,318
 Within three years, the old feudal domains
 were gone, replaced by prefectures.
 
-35
-00:01:58,293 --> 00:02:01,105
+34
+00:01:50,736 --> 00:01:53,119
 In eighteen seventy-two, the first railway
 
-36
-00:02:01,124 --> 00:02:04,765
+35
+00:01:53,139 --> 00:01:56,229
 opened, twenty-nine kilometers from Tokyo
 to Yokohama.
 
-37
-00:02:05,152 --> 00:02:06,430
+36
+00:01:56,712 --> 00:01:57,978
 And here is the twist.
 
-38
-00:02:06,450 --> 00:02:10,936
+37
+00:01:57,998 --> 00:02:02,442
 The leaders of this revolution were
 samurai, and they abolished the samurai.
 
-39
-00:02:11,833 --> 00:02:14,776
+38
+00:02:02,901 --> 00:02:05,482
 Their stipends ended in eighteen
 seventy-three.
 
-40
-00:02:14,796 --> 00:02:19,273
+39
+00:02:05,502 --> 00:02:09,432
 In eighteen seventy-six, they lost the
 right to carry swords in public.
 
-41
-00:02:19,889 --> 00:02:25,514
+40
+00:02:09,861 --> 00:02:14,554
 In eighteen seventy-seven, about fifteen
 thousand former samurai rebelled.
 
-42
-00:02:25,534 --> 00:02:28,891
+41
+00:02:14,574 --> 00:02:17,377
 They lost, and it was the last big
 uprising.
 
-43
-00:02:29,171 --> 00:02:31,840
+42
+00:02:18,002 --> 00:02:20,482
 But one door still shapes your trip.
 
-44
-00:02:31,860 --> 00:02:36,043
+43
+00:02:20,502 --> 00:02:24,392
 It is the genkan, the entrance where
 outdoor shoes stop.
 
-45
-00:02:36,408 --> 00:02:39,201
+44
+00:02:24,875 --> 00:02:28,086
 Japan draws a clear line between inside
 and outside.
 
-46
-00:02:39,221 --> 00:02:42,196
+45
+00:02:28,106 --> 00:02:31,523
 Never step onto the raised floor in your
 outdoor shoes.
 
-47
-00:02:42,979 --> 00:02:44,096
+46
+00:02:31,913 --> 00:02:33,015
 Slippers wait there.
 
-48
-00:02:44,116 --> 00:02:46,844
+47
+00:02:33,035 --> 00:02:35,727
 Take them off again before stepping onto
 tatami.
 
-49
-00:02:47,349 --> 00:02:51,848
+48
+00:02:36,222 --> 00:02:39,505
 In the bathroom, there is a second pair:
 toilet slippers.
 
-50
-00:02:51,868 --> 00:02:57,815
+49
+00:02:39,525 --> 00:02:43,872
 Walk out still wearing them, and you have
 made the classic tourist mistake.
 
-51
-00:02:58,515 --> 00:03:00,144
+50
+00:02:44,344 --> 00:02:45,970
 Outside, the rules continue.
 
-52
-00:03:00,164 --> 00:03:02,677
+51
+00:02:45,990 --> 00:02:48,499
 Public trash cans are rare, except at
 train
 
-53
-00:03:02,697 --> 00:03:05,819
+52
+00:02:48,519 --> 00:02:51,635
 stations and convenience stores, so carry
 your trash.
 
-54
-00:03:06,332 --> 00:03:08,039
+53
+00:02:51,986 --> 00:02:53,620
 And do not eat while walking.
 
-55
-00:03:08,059 --> 00:03:10,025
+54
+00:02:53,640 --> 00:02:55,522
 Sit down, or step out of the way.
 
-56
-00:03:10,765 --> 00:03:12,433
+55
+00:02:56,111 --> 00:02:57,709
 Japan locked its doors once.
 
-57
-00:03:12,453 --> 00:03:13,698
+56
+00:02:57,729 --> 00:02:58,922
 Today they open wide.
 
-58
-00:03:13,718 --> 00:03:16,069
+57
+00:02:58,942 --> 00:03:01,195
 Just know where to take off your shoes.
 
-59
-00:03:16,776 --> 00:03:19,812
+58
+00:03:02,157 --> 00:03:04,802
 That was Japan. Which country should we
 visit next?
 
-60
-00:03:19,832 --> 00:03:21,299
+59
+00:03:04,822 --> 00:03:06,101
 Tell me in the comments.
 

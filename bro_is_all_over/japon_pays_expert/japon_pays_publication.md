@@ -1,6 +1,6 @@
 # Japon (le pays) — publication (NON publié, Publish: no)
 
-## Longue (japon_pays_long.mp4, 3 min 26, 91 Mo)
+## Longue (japon_pays_long.mp4, 3 min 12, 70 Mo)
 Titre : Japan Locked Its Doors for 220 Years. What Happened Next? | Bro Is All Over
 Catégorie 19, playlist « All Over the World », miniature `miniature_pays_long.jpg`, SRT `japon_pays_long.srt`.
 Tags : voir `tags_pays.txt` (38 tags, 485 caractères).
@@ -14,7 +14,7 @@ Credits (images, public domain, via Wikimedia Commons): Dejima in Nagasaki Bay (
 Videos (Pixabay): Close-UpStock (53789), Kanenori (275983, 321038, 268537), matteoarrigo (23525, 33821), TungArt7 (248449), Luster2739 (84908). Map: Bro Is All Over atlas. Thumbnail images: AI-generated illustration.
 Music: original ambient pad. Voice: AI-generated.
 
-## Short (japon_pays_short.mp4, 41,3 s, tiré de la longue, aucun appel de voix de plus)
+## Short (japon_pays_short.mp4, 38,2 s, tiré de la longue, aucun appel de voix de plus)
 Titre : Japan Abolished Its Own Samurai. Who Did It? #shorts
 Miniature `miniature_pays_short.jpg` (image différente de la longue), SRT `japon_pays_short.srt`, mêmes tags, pas de SUBSCRIBE.
 Description : Japan locked its doors for 220 years, then its own samurai tore down the samurai. Full story on the channel. #shorts #japan

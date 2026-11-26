@@ -4,88 +4,88 @@
  "segs": [
   {
    "src": "clips/53789.mp4",
-   "ss": 1,
    "a": 0,
-   "b": 3.5,
-   "sens": 1
+   "b": 3.6,
+   "sens": 1,
+   "ss": 1
   },
   {
    "src": "jp2/wm2/samurai_beato.jpg",
-   "a": 3.5,
-   "b": 9.9,
+   "a": 3.6,
+   "b": 9.1,
    "sens": 1
   },
   {
    "src": "jp2/wm2/kurofune_photo.jpg",
-   "a": 9.9,
-   "b": 16.0,
+   "a": 9.1,
+   "b": 15.8,
    "sens": -1
   },
   {
    "src": "jp2/wm2/kurofune3.jpg",
-   "a": 16.0,
-   "b": 21.9,
+   "a": 15.8,
+   "b": 21.45,
    "sens": 1
   },
   {
    "src": "jp2/wm2/meiji.jpg",
-   "a": 21.9,
-   "b": 28.2,
+   "a": 21.45,
+   "b": 27.65,
    "sens": 1
   },
   {
    "src": "jp2/wm2/toilet_squat.jpg",
-   "a": 28.2,
-   "b": 33.5,
+   "a": 27.65,
+   "b": 31.6,
    "sens": 1
   },
   {
    "src": "jp2/wm2/toilet_closeup.jpg",
-   "a": 33.5,
-   "b": 39.1,
+   "a": 31.6,
+   "b": 35.8,
    "sens": -1
   }
  ],
  "texts": [
   {
    "a": 0,
-   "b": 3.4,
+   "b": 3.5,
    "title": "LOCKED FOR 220 YEARS",
    "color": "red"
   },
   {
-   "a": 3.5,
-   "b": 9.8,
+   "a": 3.6,
+   "b": 9.0,
    "title": "SNEAK OUT? DEATH.",
    "color": "red"
   },
   {
-   "a": 9.9,
-   "b": 15.9,
+   "a": 9.1,
+   "b": 15.7,
    "title": "FOUR BLACK SHIPS, 1853",
    "color": "red"
   },
   {
-   "a": 16.0,
-   "b": 21.8,
+   "a": 15.8,
+   "b": 21.35,
    "title": "GIANT DRAGONS PUFFING SMOKE",
    "color": "red"
   },
   {
-   "a": 21.9,
-   "b": 28.1,
+   "a": 21.45,
+   "b": 27.55,
    "title": "THEY ABOLISHED THE SAMURAI",
    "color": "red"
   },
   {
-   "a": 28.2,
-   "b": 33.4,
+   "a": 27.65,
+   "b": 31.5,
    "title": "TOILET SLIPPERS?",
    "color": "red"
   },
   {
-   "a": 33.5,
-   "b": 39.0,
+   "a": 31.6,
+   "b": 35.7,
    "title": "DON'T WALK OUT IN THEM",
    "color": "red"
   }
