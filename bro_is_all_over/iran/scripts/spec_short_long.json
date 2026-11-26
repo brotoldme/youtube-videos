@@ -1,0 +1,180 @@
+{
+ "name": "short_long",
+ "voice": "long_raw.wav",
+ "gain": -2.6,
+ "cuts": [
+  [
+   0.0,
+   4.504,
+   "Twenty-four hundred years ago, people in the Iranian desert were making ice."
+  ],
+  [
+   4.942,
+   8.022,
+   "In summer. With no electricity. No machines."
+  ],
+  [
+   41.659,
+   45.134,
+   "It is a giant dome of mud brick, with a deep cellar underneath."
+  ],
+  [
+   50.414,
+   56.259,
+   "On freezing winter nights, the clear desert sky pulls the heat out of the water. By morning, it is ice."
+  ],
+  [
+   57.005,
+   65.521,
+   "Workers cut the ice, packed it in straw, and stored it in the cellar. A chimney at the top let warm air escape, so the cellar stayed cold all summer."
+  ],
+  [
+   75.013,
+   82.1,
+   "That ice went into fah loo deh, a frozen dessert of thin noodles, rose water, and lime. People in Shih rahz still eat it today."
+  ],
+  [
+   14.393,
+   16.128,
+   "And some of those buildings are still standing."
+  ]
+ ],
+ "hook": [
+  [
+   [
+    "MAKING ",
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   [
+    "ICE",
+    [
+     255,
+     46,
+     59
+    ]
+   ]
+  ],
+  [
+   [
+    "IN A DESERT,",
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  ],
+  [
+   [
+    "2,400 YEARS AGO",
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  ]
+ ],
+ "hook_size": 170,
+ "hook_y": 1120,
+ "visuals": [
+  {
+   "cut": 0,
+   "src": "wm/yakh_meybod.jpg",
+   "p": {
+    "zs": 1.0,
+    "ze": 1.12
+   }
+  },
+  {
+   "cut": 1,
+   "src": "px/70872.mp4"
+  },
+  {
+   "cut": 2,
+   "src": "wm/yakh_kheshti.jpg",
+   "p": {
+    "zs": 1.0,
+    "ze": 1.1,
+    "fy": 0.6
+   }
+  },
+  {
+   "cut": 3,
+   "src": "px/378232.mp4"
+  },
+  {
+   "cut": 4,
+   "src": "wm/yakh_inside.jpg",
+   "p": {
+    "zs": 1.0,
+    "ze": 1.15
+   }
+  },
+  {
+   "cut": 5,
+   "src": "wm/faloodeh.jpg",
+   "p": {
+    "zs": 1.0,
+    "ze": 1.1
+   }
+  },
+  {
+   "cut": 6,
+   "src": "wm/yakh_meybod2.jpg",
+   "p": {
+    "zs": 1.08,
+    "ze": 1.0
+   }
+  }
+ ],
+ "labels": [
+  {
+   "cut": 2,
+   "parts": [
+    [
+     [
+      "YAKHCHAL",
+      [
+       255,
+       46,
+       59
+      ]
+     ]
+    ],
+    [
+     [
+      "= ICE PIT",
+      [
+       255,
+       255,
+       255
+      ]
+     ]
+    ]
+   ],
+   "size": 130
+  },
+  {
+   "cut": 5,
+   "parts": [
+    [
+     [
+      "FALOODEH",
+      [
+       255,
+       46,
+       59
+      ]
+     ]
+    ]
+   ],
+   "size": 150
+  }
+ ],
+ "out": "iran_short_long.mp4"
+}
