@@ -1,0 +1,93 @@
+{
+ "name": "japon_pays_short",
+ "audio": "jp2/mix_short_pays.wav",
+ "segs": [
+  {
+   "src": "clips/53789.mp4",
+   "ss": 1,
+   "a": 0,
+   "b": 3.5,
+   "sens": 1
+  },
+  {
+   "src": "jp2/wm2/samurai_beato.jpg",
+   "a": 3.5,
+   "b": 9.9,
+   "sens": 1
+  },
+  {
+   "src": "jp2/wm2/kurofune_photo.jpg",
+   "a": 9.9,
+   "b": 16.0,
+   "sens": -1
+  },
+  {
+   "src": "jp2/wm2/kurofune3.jpg",
+   "a": 16.0,
+   "b": 21.9,
+   "sens": 1
+  },
+  {
+   "src": "jp2/wm2/meiji.jpg",
+   "a": 21.9,
+   "b": 28.2,
+   "sens": 1
+  },
+  {
+   "src": "jp2/wm2/toilet_squat.jpg",
+   "a": 28.2,
+   "b": 33.5,
+   "sens": 1
+  },
+  {
+   "src": "jp2/wm2/toilet_closeup.jpg",
+   "a": 33.5,
+   "b": 39.1,
+   "sens": -1
+  }
+ ],
+ "texts": [
+  {
+   "a": 0,
+   "b": 3.4,
+   "title": "LOCKED FOR 220 YEARS",
+   "color": "red"
+  },
+  {
+   "a": 3.5,
+   "b": 9.8,
+   "title": "SNEAK OUT? DEATH.",
+   "color": "red"
+  },
+  {
+   "a": 9.9,
+   "b": 15.9,
+   "title": "FOUR BLACK SHIPS, 1853",
+   "color": "red"
+  },
+  {
+   "a": 16.0,
+   "b": 21.8,
+   "title": "GIANT DRAGONS PUFFING SMOKE",
+   "color": "red"
+  },
+  {
+   "a": 21.9,
+   "b": 28.1,
+   "title": "THEY ABOLISHED THE SAMURAI",
+   "color": "red"
+  },
+  {
+   "a": 28.2,
+   "b": 33.4,
+   "title": "TOILET SLIPPERS?",
+   "color": "red"
+  },
+  {
+   "a": 33.5,
+   "b": 39.0,
+   "title": "DON'T WALK OUT IN THEM",
+   "color": "red"
+  }
+ ]
+}
