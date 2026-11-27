@@ -15,7 +15,7 @@ for i,(f,t0,t1) in enumerate(labs):
 af=(f";[{n0}:a]aresample=48000,atrim=0:{P30-0.13:.3f},asetpts=PTS-STARTPTS,volume={VG}dB,apad=whole_dur={DUR:.2f}[v1]"
     f";[{n0+1}:a]aresample=48000,atrim={P30:.3f}:254.4,asetpts=PTS-STARTPTS,volume={VG}dB,adelay={int((FIN+2.02)*1000)},apad=whole_dur={DUR:.2f}[v2]"
     f";[{n0+2}:a][{n0+3}:a]acrossfade=d=3,atrim=0:{DUR:.2f},afade=t=out:st={DUR-3:.2f}:d=3,volume=-18.5dB[bd]"
-    f";[{n0+4}:a]aresample=48000,adelay={int((FIN+1.36)*1000)},apad=whole_dur={DUR:.2f}[st]"
+    f";[{n0+4}:a]aresample=48000,adelay={int((FIN+1.47)*1000)},apad=whole_dur={DUR:.2f}[st]"
     ";[v1][v2][bd][st]amix=inputs=4:normalize=0,alimiter=limit=0.95[au]")
 cmd=f"ffmpeg -y -loglevel error {' '.join(inp)} -filter_complex \"{vf}{af}\" -map \"[{prev}]\" -map \"[au]\" -t {DUR:.2f} -c:v libx264 -preset veryfast -b:v 2.7M -maxrate 3.1M -bufsize 6M -pix_fmt yuv420p -c:a aac -b:a 192k {out}"
 open('v7/mix7.sh','w').write(cmd); print(DUR)

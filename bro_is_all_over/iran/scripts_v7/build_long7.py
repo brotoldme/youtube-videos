@@ -33,7 +33,7 @@ LINES={
  18:[cl(9591,1.0),L(p7('kebab',.5,.5),('CHELOW KABAB',W),('IRAN\'S NATIONAL DISH',Y))],
  19:[cl(11626,1.0,w=1.0),L(ph('tahdig',.5,.5,w=1.0),('TAHDIG',W),("'BOTTOM OF THE POT'",Y))],
  20:[cl(243560,1.0),L(ph('faloodeh',.5,.5),('FALOODEH',W),('FROZEN NOODLE DESSERT',Y))],
- 21:[cl(49970,1.0),L(p6('carpet',.5,.35),('PERSIAN CARPETS',W),('UNESCO LISTED 2010',Y)),cl(232357,1.0)],
+ 21:[cl(290603,1.5,.5),L(p6('carpet',.5,.35),('PERSIAN CARPETS',W),('UNESCO LISTED 2010',Y)),cl(232357,1.0)],
  22:[L(p7('hafez',.5,.5,w=1.2),('TOMB OF HAFEZ',W),('SHIRAZ',Y)),cl(185092,1.0),p6('shah_well',.5,.35)],
  23:[L(cl(22761,1.0),('NOWRUZ',W),("'NEW DAY' \u00b7 3,000+ YEARS",Y)),cl(119252,1.0),p6('haft2',.5,.6)],
  24:[cl(9373,1.0),L(p6('chahar',.5,.35),('BONFIRE JUMPING',W)),cl(257593,1.0)],
