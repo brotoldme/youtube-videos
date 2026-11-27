@@ -31,7 +31,7 @@ LINES={
  16:[L(ph('persep',.5,.5,w=1.05),('PERSEPOLIS',W),('FOUNDED 518 B.C.',Y)),cl(378609,1.0,.5,w=.95),ph('gate',.5,.4,w=1.1)],
  17:[cl(70577,1.0),L(ph('bad_yazd',.5,.5),('YAZD',W),('CITY OF MUD BRICK',Y))],
  18:[cl(9591,1.0),L(p7('kebab',.5,.5),('CHELOW KABAB',W),('IRAN\'S NATIONAL DISH',Y))],
- 19:[cl(11626,1.0,w=.95),L(ph('tahdig',.5,.5,w=1.05),('TAHDIG',W),("'BOTTOM OF THE POT'",Y))],
+ 19:[cl(11626,1.0,w=1.0),L(ph('tahdig',.5,.5,w=1.0),('TAHDIG',W),("'BOTTOM OF THE POT'",Y))],
  20:[cl(243560,1.0),L(ph('faloodeh',.5,.5),('FALOODEH',W),('FROZEN NOODLE DESSERT',Y))],
  21:[cl(49970,1.0),L(p6('carpet',.5,.35),('PERSIAN CARPETS',W),('UNESCO LISTED 2010',Y)),cl(232357,1.0)],
  22:[L(p7('hafez',.5,.5,w=1.2),('TOMB OF HAFEZ',W),('SHIRAZ',Y)),cl(185092,1.0),p6('shah_well',.5,.35)],

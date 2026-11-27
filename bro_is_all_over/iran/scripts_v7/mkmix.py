@@ -2,7 +2,7 @@ import json,sys,subprocess
 VG=float(sys.argv[1]); out=sys.argv[2]
 S={x['n']:x for x in json.load(open('v7/segs.json'))}
 P30=S[30]['start']; P3=S[3]['start']; P16=S[16]['start']; P23=S[23]['start']
-FIN=P30-0.28; DUR=FIN+9.6; SUB=198.0
+FIN=P30-0.28; DUR=FIN+9.6; SUB=191.5
 labs=json.load(open('v7/labs.json'))
 inp=['-i v7/raw.mp4','-framerate 30 -i sub/fr/%04d.png','-i v6/title6.png','-i v6/date.png','-i v6/stat44.png']
 for f,_,_ in labs: inp.append('-i '+f)
@@ -13,7 +13,7 @@ prev='b0'
 for i,(f,t0,t1) in enumerate(labs):
     nxt=f'b{i+1}'; vf+=f";[{prev}][{5+i}:v]overlay=enable='between(t,{t0},{t1})'[{nxt}]"; prev=nxt
 af=(f";[{n0}:a]aresample=48000,atrim=0:{P30-0.13:.3f},asetpts=PTS-STARTPTS,volume={VG}dB,apad=whole_dur={DUR:.2f}[v1]"
-    f";[{n0+1}:a]aresample=48000,atrim={P30:.3f}:263.3,asetpts=PTS-STARTPTS,volume={VG}dB,adelay={int((FIN+2.02)*1000)},apad=whole_dur={DUR:.2f}[v2]"
+    f";[{n0+1}:a]aresample=48000,atrim={P30:.3f}:254.4,asetpts=PTS-STARTPTS,volume={VG}dB,adelay={int((FIN+2.02)*1000)},apad=whole_dur={DUR:.2f}[v2]"
     f";[{n0+2}:a][{n0+3}:a]acrossfade=d=3,atrim=0:{DUR:.2f},afade=t=out:st={DUR-3:.2f}:d=3,volume=-18.5dB[bd]"
     f";[{n0+4}:a]aresample=48000,adelay={int((FIN+1.36)*1000)},apad=whole_dur={DUR:.2f}[st]"
     ";[v1][v2][bd][st]amix=inputs=4:normalize=0,alimiter=limit=0.95[au]")
