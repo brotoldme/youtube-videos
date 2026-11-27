@@ -1,5 +1,5 @@
 # Eswatini : mode expert vidéo pays (notes, livré)
-Publish: no | TEST: non (rien publié sans « publie ») | État : livré (1 longue + 3 Shorts + 4 SRT + 4 miniatures + titres, tags, descriptions)
+Publish: no | TEST: non (rien publié sans « publie ») | État : v2 avec CLIPS (27 nov. 2026) : 1 longue + 2 Shorts (DON'T, MUST DO) + 3 SRT + 3 miniatures. Le Short tiré de la longue est ABANDONNÉ (décision de l'utilisateur).
 
 ## Décisions de l'utilisateur
 - Reed Dance : exception à la règle « jamais d'enfants » pour cette vidéo seulement (aucun plan d'enfant retenu ; voix seule).
@@ -75,24 +75,14 @@ Eswatini,Swaziland,Eswatini travel,Eswatini facts,Eswatini history,Eswatini cult
 - M4: Do track a black rhino on foot at Mkahyah. Guides run the walks, and odds are among Africa's best.
 - M5: Do sleep in a beehive hut at Mleelwahneh. The restaurant there overlooks a hippo pool.
 
-## Fichiers livrés (repo brotoldme/youtube-videos, bro_is_all_over/eswatini/)
-eswatini_long.mp4, eswatini_short_long.mp4, eswatini_short_dont.mp4, eswatini_short_must.mp4 ; 4 SRT ; thumb_long.jpg, thumb_short_long.jpg, thumb_short_dont.jpg, thumb_short_must.jpg ; titres, tags, descriptions (crédits Wikimedia inclus) dans out/.
+## Version 2 avec clips (27 nov. 2026, demande de l'utilisateur : règles clips non respectées en v1)
+- Longue : 37 clips + 18 photos (jamais deux photos de suite, aucun plan > 5 s, aucun clip répété). Clips Pixabay (sans crédit) ; le reste en photos Wikimedia quand aucun clip honnête n'existe (parlement, Mbabane, Lion Cavern, Mantenga, etc.).
+- Short DON'T : 11 clips/photos dont 8 clips ; Short MUST : zipline = vidéo Wikimedia « 1500 m zipline la Vallée des Couleurs » (Maurice, CC BY 3.0, Matt Redfern ; Pixabay n'a aucune zipline).
+- Première scène des Shorts = image Gemini (règle 11).
+- Clips illustratifs (pas filmés en Eswatini, dits dans les descriptions) : cérémonie traditionnelle = Nigeria (aucun clip de danse africaine libre ailleurs ; clip 227858 écarté : un enfant visible), zipline = Maurice, bus de nuit = Bangkok, rues et foules = génériques, rhinos/hippos/zèbres = zoos ou parcs, rafting = ailleurs.
+- Clips interdits (claude/clips_interdits.md) : aucun. Clip de marque écarté (chaussure Nike, appareil Canon).
+- Écarts : pas de vraie photo d'une hutte en ruche (scène M5 = lac de Mlilwane + hippo) ; sibhaca : photo réelle de Mantenga puis clip de cérémonie illustratif ; fichiers vidéo de la longue 64 Mo (crf 27).
+- Même tournage : les rhinos de la longue sont de NickyPe (2 clips, séparés dans le temps).
 
-## Audit
-| Contrôle | Résultat |
-|---|---|
-| Format | longue 1920×1080 30 i/s ; Shorts 1080×1920 |
-| Durées | longue 3:24,7 (cible ≈ 4 min : ÉCART déclaré) ; Shorts 30,6 s / 35,9 s / 39,4 s (30–40 s) |
-| Volume | −21,4 LUFS partout |
-| Hook 0–3 s | « In Eswahteeni, one king still chooses the prime minister. » ; carte après l'accroche (≈ 17 s, après les 3 phrases d'accroche : ÉCART mineur vs ≤ 8 s) |
-| Drapeau | vrai SVG Wikimedia (map, poses, miniatures) ; fichier corrompu détecté puis re-téléchargé |
-| SUBSCRIBE | longue seulement (151,5 s) ; jamais dans les Shorts |
-| Sortie | passeport, tampon ESWATINI, un seul appel : « Which country should we visit next? Tell me in the comments. » |
-| Canada / conseils gouvernementaux | aucune mention dans voix, SRT, images, description |
-| Enfants / personnalités | aucune photo du roi ni d'enfants |
-| Homographes | 0 mot à risque (script) |
-| Doublons d'images | aucun entre les 4 vidéos (plan d'attribution) |
-| SRT | ≤ 2 lignes de 42 car., pas de chevauchement ; 1 cue de 0,87 s (« Reply, yebo. », collée à la suivante) |
-| Tags (règle 175) | 34 tags, 460 car., « Bro Is All Over » en dernier |
-| Miniatures | rouge #FF2E3B, vrai drapeau 260 px / 200 px, image Gemini différente par vidéo |
-| Test « envie de visiter ? » | oui : zèbres, rhinos à pied, mine d'ocre de 48 000 ans, festivals ; le hook monarchie ouvre et le passage de la monarchie reste court |
+## Fichiers livrés (repo brotoldme/youtube-videos, bro_is_all_over/eswatini/)
+eswatini_long.mp4, eswatini_short_dont.mp4, eswatini_short_must.mp4 ; 3 SRT ; thumb_long.jpg, thumb_short_dont.jpg, thumb_short_must.jpg ; titres, tags, descriptions dans le même dossier.
