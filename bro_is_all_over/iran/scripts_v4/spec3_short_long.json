@@ -1,0 +1,244 @@
+{
+ "name": "short_long3",
+ "voice": "long_raw.wav",
+ "gain": -2.6,
+ "cuts": [
+  [
+   0.0,
+   4.504,
+   "Twenty-four hundred years ago, people in the Iranian desert were making ice."
+  ],
+  [
+   4.942,
+   8.022,
+   "In summer. With no electricity. No machines."
+  ],
+  [
+   41.659,
+   45.134,
+   "It is a giant dome of mud brick, with a deep cellar underneath."
+  ],
+  [
+   50.414,
+   56.259,
+   "On freezing winter nights, the clear desert sky pulls the heat out of the water. By morning, it is ice."
+  ],
+  [
+   57.005,
+   65.521,
+   "Workers cut the ice, packed it in straw, and stored it in the cellar. A chimney at the top let warm air escape, so the cellar stayed cold all summer."
+  ],
+  [
+   75.013,
+   82.1,
+   "That ice went into fah loo deh, a frozen dessert of thin noodles, rose water, and lime. People in Shih rahz still eat it today."
+  ],
+  [
+   14.393,
+   16.128,
+   "And some of those buildings are still standing."
+  ]
+ ],
+ "hook": [
+  [
+   [
+    "MAKING ",
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   [
+    "ICE",
+    [
+     255,
+     46,
+     59
+    ]
+   ]
+  ],
+  [
+   [
+    "IN IRAN'S DESERT,",
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  ],
+  [
+   [
+    "2,400 YEARS AGO",
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  ]
+ ],
+ "hook_size": 170,
+ "hook_y": 1120,
+ "visuals": [
+  {
+   "cut": 0,
+   "src": "wm/ks1.jpg",
+   "p": {
+    "zs": 1.0,
+    "ze": 1.08,
+    "fx": 0.5
+   }
+  },
+  {
+   "cut": 1,
+   "src": "px/378434.mp4",
+   "p": {
+    "ss": 1
+   }
+  },
+  {
+   "cut": 2,
+   "src": "wm/kash_hi.jpg",
+   "p": {
+    "zs": 1.0,
+    "ze": 1.08,
+    "fx": 0.34
+   }
+  },
+  {
+   "cut": 3,
+   "src": "px/263320.mp4",
+   "p": {
+    "ss": 1
+   },
+   "part": [
+    0,
+    2
+   ]
+  },
+  {
+   "cut": 3,
+   "src": "px/76261.mp4",
+   "p": {
+    "ss": 1
+   },
+   "part": [
+    1,
+    2
+   ]
+  },
+  {
+   "cut": 4,
+   "src": "px/209665.mp4",
+   "p": {
+    "ss": 1
+   },
+   "part": [
+    0,
+    3
+   ]
+  },
+  {
+   "cut": 4,
+   "src": "px/124122.mp4",
+   "p": {
+    "ss": 1
+   },
+   "part": [
+    1,
+    3
+   ]
+  },
+  {
+   "cut": 4,
+   "src": "wm/yakh_inside.jpg",
+   "p": {
+    "zs": 1.0,
+    "ze": 1.1,
+    "fx": 0.5
+   },
+   "part": [
+    2,
+    3
+   ]
+  },
+  {
+   "cut": 5,
+   "src": "wm/faloodeh.jpg",
+   "p": {
+    "zs": 1.0,
+    "ze": 1.08,
+    "fx": 0.5
+   },
+   "part": [
+    0,
+    2
+   ]
+  },
+  {
+   "cut": 5,
+   "src": "px/31283.mp4",
+   "p": {
+    "ss": 1
+   },
+   "part": [
+    1,
+    2
+   ]
+  },
+  {
+   "cut": 6,
+   "src": "px/378610.mp4",
+   "p": {
+    "ss": 1
+   }
+  }
+ ],
+ "labels": [
+  {
+   "cut": 2,
+   "parts": [
+    [
+     [
+      "YAKHCHAL",
+      [
+       255,
+       46,
+       59
+      ]
+     ]
+    ],
+    [
+     [
+      "= ICE PIT",
+      [
+       255,
+       255,
+       255
+      ]
+     ]
+    ]
+   ],
+   "size": 130
+  },
+  {
+   "cut": 5,
+   "parts": [
+    [
+     [
+      "FALOODEH",
+      [
+       255,
+       46,
+       59
+      ]
+     ]
+    ]
+   ],
+   "size": 150
+  }
+ ],
+ "out": "iran_short_long_v3.mp4"
+}

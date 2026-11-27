@@ -1,0 +1,199 @@
+{
+ "name": "short_must3",
+ "voice": "must_raw.wav",
+ "gain": -4.5,
+ "cuts": [
+  [
+   0.0,
+   1.65,
+   "Five things you must do in Iran."
+  ],
+  [
+   4.162,
+   10.203,
+   "One. Stand in Nahgsh eh Jah hahn Square, in Ees fah hahn. A Yoo-nes-co site, built around sixteen hundred."
+  ],
+  [
+   11.142,
+   15.543,
+   "Two. Walk through Persepolis, the ceremonial capital of the Ah kee meh nid Empire."
+  ],
+  [
+   16.333,
+   19.835,
+   "Three. See the Pink Mosque, in Shih rahz, at sunrise."
+  ],
+  [
+   20.6,
+   26.775,
+   "Four. Look up inside the breeze catcher at Dowlat Ah bahd Garden, in Yezd. Almost thirty-four meters tall."
+  ],
+  [
+   27.543,
+   34.299,
+   "Five. Eat fah loo deh in Shih rahz. Frozen noodles, rose water, and lime. One of the world's oldest frozen desserts."
+  ]
+ ],
+ "hook": [
+  [
+   [
+    "5 THINGS YOU MUST",
+    [
+     255,
+     255,
+     255
+    ]
+   ]
+  ],
+  [
+   [
+    "DO IN IRAN",
+    [
+     255,
+     210,
+     63
+    ]
+   ]
+  ]
+ ],
+ "hook_size": 170,
+ "hook_y": 1120,
+ "visuals": [
+  {
+   "cut": 0,
+   "src": "px/378189.mp4",
+   "p": {
+    "ss": 1
+   }
+  },
+  {
+   "cut": 1,
+   "src": "wm/m_naqsh.jpg",
+   "p": {
+    "zs": 1.0,
+    "ze": 1.07,
+    "fx": 0.5
+   },
+   "part": [
+    0,
+    2
+   ]
+  },
+  {
+   "cut": 1,
+   "src": "wm/naqsh.jpg",
+   "p": {
+    "zs": 1.0,
+    "ze": 1.07,
+    "fx": 0.45
+   },
+   "part": [
+    1,
+    2
+   ]
+  },
+  {
+   "cut": 2,
+   "src": "wm/m_persep.jpg",
+   "p": {
+    "zs": 1.0,
+    "ze": 1.07,
+    "fx": 0.5
+   }
+  },
+  {
+   "cut": 3,
+   "src": "wm/m_nasir.jpg",
+   "p": {
+    "zs": 1.0,
+    "ze": 1.07,
+    "fx": 0.5
+   }
+  },
+  {
+   "cut": 4,
+   "src": "wm/m_dowlat.jpg",
+   "p": {
+    "zs": 1.0,
+    "ze": 1.07,
+    "fx": 0.5
+   },
+   "part": [
+    0,
+    2
+   ]
+  },
+  {
+   "cut": 4,
+   "src": "wm/m_dowlat2.jpg",
+   "p": {
+    "zs": 1.0,
+    "ze": 1.07,
+    "fx": 0.5
+   },
+   "part": [
+    1,
+    2
+   ]
+  },
+  {
+   "cut": 5,
+   "src": "wm/m_falood.jpg",
+   "p": {
+    "zs": 1.0,
+    "ze": 1.07,
+    "fx": 0.5
+   },
+   "part": [
+    0,
+    2
+   ]
+  },
+  {
+   "cut": 5,
+   "src": "wm/falood2.jpg",
+   "p": {
+    "zs": 1.0,
+    "ze": 1.07,
+    "fx": 0.4
+   },
+   "part": [
+    1,
+    2
+   ]
+  }
+ ],
+ "out": "iran_short_must_v3.mp4",
+ "gabarit": {
+  "kind": "must",
+  "names": [
+   "ISFAHAN",
+   "PERSEPOLIS",
+   "MOSQUE",
+   "YAZD",
+   "FALOODEH"
+  ],
+  "cards": [
+   [
+    "NAQSH-E JAHAN SQUARE",
+    "Isfahan, UNESCO site, built around 1600"
+   ],
+   [
+    "PERSEPOLIS",
+    "Ceremonial capital of the Achaemenid Empire"
+   ],
+   [
+    "PINK MOSQUE",
+    "Shiraz, at sunrise"
+   ],
+   [
+    "DOWLAT ABAD GARDEN",
+    "Yazd, wind catcher almost 34 m tall"
+   ],
+   [
+    "FALOODEH",
+    "Shiraz: frozen noodles, rose water, lime"
+   ]
+  ]
+ }
+}
